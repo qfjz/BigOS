@@ -7,9 +7,11 @@
 - Flatpak
 - FZF
 - GCC
+- git
 - glow
 - GnuPG
 - Go
+- jq
 - Makefile
 - MC
 - mtr
@@ -23,9 +25,6 @@
 - ngrep
 - NMAP
 - Obsidian.md
-- git
-- jq
-- yq
 - opendoas
 - ripgrep (rg)
 - Rust
@@ -38,6 +37,7 @@
 - wireshark-cli
 - wireshark-qt
 - YAZI
+- yq
 - Zed Editor
 - Zen Browser
 - Zoxide
