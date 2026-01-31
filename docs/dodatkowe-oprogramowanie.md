@@ -23,6 +23,9 @@
 - ngrep
 - NMAP
 - Obsidian.md
+- git
+- jq
+- yq
 - opendoas
 - ripgrep (rg)
 - Rust
