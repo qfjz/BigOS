@@ -1,32 +1,40 @@
 # Dodatkowe oprogramowanie
 
-- Neovim
-- TMUX
-- FZF
-- GnuPG
-- ripgrep (rg)
-- MC
-- YAZI
-- Zoxide
-- Skim (sk)
-- Rust
-- Go
-- GCC
-- Makefile
-- NMAP
-- nftables
+- autoconf
+- automake
+- eza
 - firewalld
-- glow
-- Obsidian.md
 - Flatpak
-- Zen Browser
-- Zed Editor
-- TLDR
-- neofetch
-- starship
-- netcat
-- ngrep
-- tcpdump
-- ncdu
-- nextcloud
+- FZF
+- GCC
+- glow
+- GnuPG
+- Go
+- Makefile
+- MC
 - mtr
+- ncdu
+- neofetch
+- Neovim
+- netcat
+- networkmanager
+- nextcloud
+- nftables
+- ngrep
+- NMAP
+- Obsidian.md
+- opendoas
+- ripgrep (rg)
+- Rust
+- Skim (sk)
+- starship
+- tcpdump
+- TLDR
+- TMUX
+- wireguard
+- wireshark-cli
+- wireshark-qt
+- YAZI
+- Zed Editor
+- Zen Browser
+- Zoxide
