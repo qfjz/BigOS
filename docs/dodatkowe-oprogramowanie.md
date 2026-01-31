@@ -1,0 +1,23 @@
+# Dodatkowe oprogramowanie
+
+- Neovim
+- TMUX
+- FZF
+- GnuPG
+- ripgrep
+- MC
+- YAZI
+- Zoxide
+- Skim
+- Rust
+- Go
+- GCC
+- Makefile
+- NMAP
+- nftables
+- firewalld
+- glow
+- Obsidian.md
+- Flatpak
+- Zen Browser
+- Zed Editor
