@@ -4,11 +4,11 @@
 - TMUX
 - FZF
 - GnuPG
-- ripgrep
+- ripgrep (rg)
 - MC
 - YAZI
 - Zoxide
-- Skim
+- Skim (sk)
 - Rust
 - Go
 - GCC
@@ -21,3 +21,12 @@
 - Flatpak
 - Zen Browser
 - Zed Editor
+- TLDR
+- neofetch
+- starship
+- netcat
+- ngrep
+- tcpdump
+- ncdu
+- nextcloud
+- mtr
